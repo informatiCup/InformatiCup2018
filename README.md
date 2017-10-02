@@ -28,6 +28,28 @@ Coming soon...
 
 ![image](https://github.com/InformatiCup/InformatiCup2018/raw/master/Aufgabenbeschreibung/fuel_gauge_small.png) ![image](https://github.com/InformatiCup/InformatiCup2018/raw/master/Aufgabenbeschreibung/landmark_small.png)
 
+## Preisgeld / Price money
+
+Die Sponsoren des informatiCup ermöglichen auch in diesem Jahr wieder attraktive Geldpreise.
+
+1. Platz 4000 €
+2. Platz 2000 €
+3. Platz 1000 €
+
+Außerdem wird es weitere Sonderpreise geben.
+
+~
+
+The informatiCup sponsors will again offer attractive cash prizes this year.
+
+1. Place 4000 €
+2. Place 2000 €
+3. Place 1000 €
+
+There will also be additional special awards.
+
+![image](http://informaticup.gi.de/uploads/pics/amazon_logo_RGB.jpg) ![image](http://informaticup.gi.de/uploads/pics/ppi-logo.jpg) ![image](http://informaticup.gi.de/uploads/pics/tankerkoenig.png)
+
 ## Informatikwissen ist universell - Zeigen Sie es uns! / Software is eating the world - Let's prove it!
 
 Sie sind kreativ, haben Visionen und sind nicht allein! Gefragt sind umfassende Problemlösungen die in kommunikativen Prozessen entwickelt werden müssen. Deshalb ist der informatiCup auch
