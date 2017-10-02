@@ -97,8 +97,12 @@ The informatiCup targets enrolled students throughout all fields of study and se
 
 Wenn Sie Fragen zum Wettbewerb haben oder die bereits beantworteten Fragen einsehen möchten nutzen Sie bitte die [Issue-Funktion](https://github.com/InformatiCup/InformatiCup2018/issues) dieses Repositories.
 
+Aktuelle Neuigkeiten gibt es auch auf Twitter von [@informatiCup](https://twitter.com/informatiCup).
+
 ~
 
 If you should have any questions or like to see what questions have already been answered have a look at the [issues](https://github.com/InformatiCup/InformatiCup2018/issues) of this repository.
+
+Current news is also available on Twitter from [@informatiCup](https://twitter.com/informatiCup).
 
 ![image](https://cloud.githubusercontent.com/assets/1872314/19119143/16a67f04-8b1f-11e6-8b47-0d3510eae0b8.png)
