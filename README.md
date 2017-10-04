@@ -20,11 +20,11 @@ Further information and a retrospection on the 12 informatiCup competitions sinc
 
 ## Aufgabenstellung / Task description
 
-In Kürze verfügbar...
+Die Aufgabenstellung in diesem Jahr ist [Intellitank](https://github.com/InformatiCup/InformatiCup2018/blob/master/Aufgabenbeschreibung/Intellitank.pdf).
 
 ~
 
-Coming soon...
+The task this year is [Intellitank](https://github.com/InformatiCup/InformatiCup2018/blob/master/Aufgabenbeschreibung/Intellitank.pdf).
 
 ![image](https://github.com/InformatiCup/InformatiCup2018/raw/master/Aufgabenbeschreibung/fuel_gauge_small.png) ![image](https://github.com/InformatiCup/InformatiCup2018/raw/master/Aufgabenbeschreibung/landmark_small.png)
 
