@@ -36,7 +36,7 @@ Die Sponsoren des informatiCup ermöglichen auch in diesem Jahr wieder attraktiv
 2. Platz 2000 €
 3. Platz 1000 €
 
-Außerdem wird es weitere Sonderpreise geben.
+Außerdem belohnt der [Tankerkönig](https://www.tankerkoenig.de/) die beste Verwendung von Open Data mit einen Sonderpreis von 500 €. Die [TWT GmbH Science & Innovation](https://www.twt-gmbh.de) sponsert wieder einen Sonderpreis ebenfalls in Höhe von 500 € für den besten wissenschaftlichen Transfer.
 
 ~
 
@@ -46,9 +46,12 @@ The informatiCup sponsors will again offer attractive cash prizes this year.
 2. Place 2000 €
 3. Place 1000 €
 
-There will also be additional special awards.
+In addition, the [Tankerkönig](https://www.tankerkoenig.de/) rewards the best use of OpenData with a special award of 500 €. [TWT GmbH Science & Innovation](https://www.twt-gmbh.de) sponsors a special award of € 500 for the best scientific transfer.
 
-![image](http://informaticup.gi.de/uploads/pics/amazon_logo_RGB.jpg) ![image](http://informaticup.gi.de/uploads/pics/ppi-logo.jpg) ![image](http://informaticup.gi.de/uploads/pics/tankerkoenig.png)
+![Amazon](http://informaticup.gi.de/uploads/pics/amazon_logo_RGB.jpg)
+![PPI](http://informaticup.gi.de/uploads/pics/ppi-logo-2017.png)
+![Tankerkönig](http://informaticup.gi.de/uploads/pics/tankerkoenig.png)
+![TWT](http://informaticup.gi.de/uploads/pics/TWT_GmbH_240x138.jpg)
 
 ## Informatikwissen ist universell - Zeigen Sie es uns! / Software is eating the world - Let's prove it!
 
