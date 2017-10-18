@@ -36,7 +36,7 @@ Die Sponsoren des informatiCup ermöglichen auch in diesem Jahr wieder attraktiv
 2. Platz 2000 €
 3. Platz 1000 €
 
-Außerdem belohnt der [Tankerkönig](https://www.tankerkoenig.de/) die beste Verwendung von Open Data mit einen Sonderpreis von 500 €. Die [TWT GmbH Science & Innovation](https://www.twt-gmbh.de) sponsert wieder einen Sonderpreis ebenfalls in Höhe von 500 € für den besten wissenschaftlichen Transfer.
+Außerdem belohnt der [Tankerkönig](https://www.tankerkoenig.de/) die beste Verwendung von Open Data mit einem Sonderpreis von 500 €. Die [TWT GmbH Science & Innovation](https://www.twt-gmbh.de) sponsert wieder einen Sonderpreis ebenfalls in Höhe von 500 € für den besten wissenschaftlichen Transfer.
 
 ~
 
