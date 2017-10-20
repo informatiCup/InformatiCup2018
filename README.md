@@ -46,7 +46,7 @@ The informatiCup sponsors will again offer attractive cash prizes this year.
 2. Place 2000 €
 3. Place 1000 €
 
-In addition, the [Tankerkönig](https://www.tankerkoenig.de/) rewards the best use of OpenData with a special award of 500 €. [TWT GmbH Science & Innovation](https://www.twt-gmbh.de) sponsors a special award of € 500 for the best scientific transfer.
+In addition, the [Tankerkönig](https://www.tankerkoenig.de/) rewards the best use of OpenData with a special award of 500 €. [TWT GmbH Science & Innovation](https://www.twt-gmbh.de) sponsors a special award of 500 € for the best scientific transfer.
 
 ![Amazon](http://informaticup.gi.de/uploads/pics/amazon_logo_RGB.jpg)
 ![PPI](http://informaticup.gi.de/uploads/pics/ppi-logo-2017.png)
