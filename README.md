@@ -10,11 +10,11 @@ Weitere Infos sowie einen Rückblick auf die 12 Wettbewerbsrunden seit 2005 gibt
 
 ~
 
-The [German Informatics Society](https://en.gi.de) hosts the [informatiCup](http://www.informaticup.de) collegiate computer science competition - in 2018 for the 13th concescutive time.
+The [German Informatics Society](https://en.gi.de) hosts the [informatiCup](http://www.informaticup.de) collegiate computer science competition - in 2018 for the 13th consecutive time.
 
 The informatiCup 2018 is devoted to the task of calculating optimal refueling stops for a given vehicle route with regard to the effective gasoline price. Historical fuel prices of the past five years, additional information, as well as applied data analysis and prediction methods will form the basis for a solution.
 
-Further information and a retrospection on the 12 informatiCup competitions since 2005 are available on the [official informatiCup website](http://www.informaticup.de).
+Further information and a retrospective on the 12 informatiCup competitions since 2005 are available on the [official informatiCup website](http://www.informaticup.de).
 
 ![image](https://cloud.githubusercontent.com/assets/1872314/19118630/4ea5533c-8b1d-11e6-8496-a796adce2001.png)
 
