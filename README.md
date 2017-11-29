@@ -32,9 +32,9 @@ The task this year is [Intellitank](https://github.com/InformatiCup/InformatiCup
 
 Die Sponsoren des informatiCup ermöglichen auch in diesem Jahr wieder attraktive Geldpreise.
 
-1. Platz 4000 €
-2. Platz 2000 €
-3. Platz 1000 €
+1. Platz 4000 € (Amazon)
+2. Platz 2000 € (PPI AG)
+3. Platz 1000 € (TomTom)
 
 Außerdem belohnt der [Tankerkönig](https://www.tankerkoenig.de/) die beste Verwendung von Open Data mit einem Sonderpreis von 500 €. Die [TWT GmbH Science & Innovation](https://www.twt-gmbh.de) sponsert wieder einen Sonderpreis ebenfalls in Höhe von 500 € für den besten wissenschaftlichen Transfer.
 
@@ -42,16 +42,18 @@ Außerdem belohnt der [Tankerkönig](https://www.tankerkoenig.de/) die beste Ver
 
 The informatiCup sponsors will again offer attractive cash prizes this year.
 
-1. Place 4000 €
-2. Place 2000 €
-3. Place 1000 €
+1. Place 4000 € (Amazon)
+2. Place 2000 € (PPI AG)
+3. Place 1000 € (TomTom)
 
 In addition, the [Tankerkönig](https://www.tankerkoenig.de/) rewards the best use of OpenData with a special award of 500 €. [TWT GmbH Science & Innovation](https://www.twt-gmbh.de) sponsors a special award of 500 € for the best scientific transfer.
 
-![Amazon](http://informaticup.gi.de/uploads/pics/amazon_logo_RGB.jpg)
-![PPI](http://informaticup.gi.de/uploads/pics/ppi-logo-2017.png)
-![Tankerkönig](http://informaticup.gi.de/uploads/pics/tankerkoenig.png)
-![TWT](http://informaticup.gi.de/uploads/pics/TWT_GmbH_240x138.jpg)
+![Amazon](https://gi.de/fileadmin/GI/Allgemein/Logos/amazon_logo_transp.png)
+![PPI](https://gi.de/fileadmin/user_upload/ppi-logo-2017.png)
+![TomTom](https://gi.de/fileadmin/GI/Allgemein/Logos/tomtom-logo_tcm166-3340.png)
+![Tankerkönig](https://gi.de/fileadmin/GI/Allgemein/Logos/tankerkoenig_transp.png)
+![TWT](https://gi.de/fileadmin/GI/Allgemein/Logos/TWT_GmbH.png)
+![GitHub](https://gi.de/fileadmin/user_upload/GitHub_Logo_02.png)
 
 ## Informatikwissen ist universell - Zeigen Sie es uns! / Software is eating the world - Let's prove it!
 
