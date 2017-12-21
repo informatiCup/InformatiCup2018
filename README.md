@@ -50,7 +50,7 @@ In addition, the [Tankerkönig](https://www.tankerkoenig.de/) rewards the best u
 
 ![Amazon](https://gi.de/fileadmin/GI/Allgemein/Logos/amazon_logo_transp.png)
 ![PPI](https://gi.de/fileadmin/user_upload/ppi-logo-2017.png)
-![TomTom](https://gi.de/fileadmin/GI/Allgemein/Logos/tomtom-logo_tcm166-3340.png)
+![TomTom](https://gi.de/fileadmin/_processed_/9/7/csm_TTT_logo_02_CMYK_xs_12dd81227f.png)
 ![Tankerkönig](https://gi.de/fileadmin/GI/Allgemein/Logos/tankerkoenig_transp.png)
 ![TWT](https://gi.de/fileadmin/GI/Allgemein/Logos/TWT_GmbH.png)
 ![GitHub](https://gi.de/fileadmin/user_upload/GitHub_Logo_02.png)
