@@ -111,3 +111,12 @@ If you should have any questions or like to see what questions have already been
 Current news is also available on Twitter from [@informatiCup](https://twitter.com/informatiCup).
 
 ![image](https://cloud.githubusercontent.com/assets/1872314/19119143/16a67f04-8b1f-11e6-8b47-0d3510eae0b8.png)
+
+
+## Next year's challenge / Nächster InformatiCup
+
+The next InformatiCup is hosted in [this repo](https://github.com/InformatiCup/InformatiCup2019).
+
+~
+
+Der nächste InformatiCup wird [hier](https://github.com/InformatiCup/InformatiCup2019) gehostet.
