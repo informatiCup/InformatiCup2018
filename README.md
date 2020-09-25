@@ -2,7 +2,7 @@
 
 # informatiCup 2018
 
-Die [Gesellschaft für Informatik](https://gi.de) veranstaltet den [informatiCup](http://www.informaticup.de) - im Jahr 2018 bereits im 13. Jahr in Folge.
+Die [Gesellschaft für Informatik](https://gi.de) veranstaltet den [informatiCup](https://informaticup.github.io/) - im Jahr 2018 bereits im 13. Jahr in Folge.
 
 Der informatiCup 2018 widmet sich der Aufgabe, für eine gegebene Fahrzeugroute die bezüglich des effektiven Benzinpreises optimalen Tankstopps zu berechnen. Die Grundlage für diese Optimierung sollen die historischen Benzinpreise der letzten fünf Jahre, gegebenenfalls weitere Zusatzinformationen, sowie darauf angewendete Methoden der Datenanalyse und -vorhersage sein.
 
@@ -10,7 +10,7 @@ Weitere Infos sowie einen Rückblick auf die 12 Wettbewerbsrunden seit 2005 gibt
 
 ~
 
-The [German Informatics Society](https://en.gi.de) hosts the [informatiCup](http://www.informaticup.de) collegiate computer science competition - in 2018 for the 13th consecutive time.
+The [German Informatics Society](https://en.gi.de) hosts the [informatiCup](https://informaticup.github.io/) collegiate computer science competition - in 2018 for the 13th consecutive time.
 
 The informatiCup 2018 is devoted to the task of calculating optimal refueling stops for a given vehicle route with regard to the effective gasoline price. Historical fuel prices of the past five years, additional information, as well as applied data analysis and prediction methods will form the basis for a solution.
 
